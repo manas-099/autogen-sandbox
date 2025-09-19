@@ -82,6 +82,3 @@ This repository is designed for:
 
 ---
 
-## 📜 License
-
-MIT License – free to use, modify, and distribute.
